@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "servico_serverless_validacao_CPF_3": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7150",
+      "launchBrowser": false
+    }
+  }
+}

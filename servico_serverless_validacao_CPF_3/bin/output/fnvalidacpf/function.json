@@ -1,0 +1,17 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.5.0",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "methods": [
+        "post"
+      ],
+      "authLevel": "function",
+      "name": "req"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/servico_serverless_validacao_CPF_3.dll",
+  "entryPoint": "servico_serverless_validacao_CPF_3.fnvalidacpf.Run"
+}
