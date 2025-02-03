@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "CosmosDBConnection": "AccountEndpoint=https://cosmosdb-flixdio-dev001.documents.azure.com:443/;AccountKey=dLxOKTA4gyyyfwbGPCkQsZ2M67Kg7iyIBJdETxsBs9oeY5rnkf7b5h2vpDX1dEUx7RoqFM8qPrrAACDbP4Rl8Q==;"
+
+    },
+    "Host": {
+        "CORS": "*"
+    }
+}
